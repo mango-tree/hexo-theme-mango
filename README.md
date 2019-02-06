@@ -18,7 +18,7 @@ $ git clone https://github.com/mango-tree/hexo-theme-mango.git themes/mango
 
 ### Enable
 
-Modify `theme` setting in `_config.yml` to `landscape`.
+Modify `theme` setting in `_config.yml` to `mango`.
 
 ### Update
 
