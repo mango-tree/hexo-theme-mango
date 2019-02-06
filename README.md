@@ -1,8 +1,10 @@
+
+![img](https://raw.githubusercontent.com/mango-tree/mango-tree.github.io/master/img/example2.png)
 # Mango
 
 theme for [Hexo].
 
-- [Preview]
+[Preview](https://mango-tree.github.io)
 
 This project is under construction
 
