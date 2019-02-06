@@ -11,7 +11,7 @@ This project is under construction
 ### Install
 
 ``` bash
-$ git clone https://github.com/hexojs/hexo-theme-mango.git themes/mango
+$ git clone https://github.com/mango-tree/hexo-theme-mango.git themes/mango
 ```
 
 **Mango requires Hexo 2.4 and above.** If you would like to enable the RSS, the [hexo-generate-feed] plugin is also required.
