@@ -6,8 +6,6 @@ theme for [Hexo].
 
 [Preview](https://mango-tree.github.io)
 
-This project is under construction
-
 ## Installation
 
 ### Install
@@ -73,7 +71,7 @@ google_plus:
 
 ### Fancybox
 
-Landscape uses [Fancybox] to showcase your photos. You can use Markdown syntax or fancybox tag plugin to add your photos.
+Mango uses [Fancybox] to showcase your photos. You can use Markdown syntax or fancybox tag plugin to add your photos.
 
 ```
 ![img caption](img url)
