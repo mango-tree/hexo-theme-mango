@@ -1,5 +1,5 @@
 
-![img](https://raw.githubusercontent.com/mango-tree/mango-tree.github.io/master/img/example2.png)
+![img](https://raw.githubusercontent.com/mango-tree/mango-tree.github.io/master/img/example4.png)
 # Mango
 
 theme for [Hexo].
